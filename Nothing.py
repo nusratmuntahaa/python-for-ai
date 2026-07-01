@@ -1,0 +1,1 @@
+print("প্রোগ্রামিং শিখখা হইবটা কি?If he can't even make it after years, who am I  ")
