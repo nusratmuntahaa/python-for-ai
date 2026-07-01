@@ -24,4 +24,4 @@ for index, row in df.iterrows():
 grand_total = df['total'].sum()
 formatted_grand_total = format_currency(grand_total)
 print(f"\nGrand Total: {formatted_grand_total}")
-print(grand_total)  # Display the grand total as a number
+print(grand_total)  # Print the grand total as a number for verification
